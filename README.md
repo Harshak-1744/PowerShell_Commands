@@ -2,6 +2,33 @@
 
 This cheat sheet provides a quick reference to some of the most commonly used PowerShell commands.
 
+# PowerShell Overview
+
+PowerShell is a powerful scripting language and command-line shell developed by Microsoft, primarily used for automating system administration tasks and managing Windows-based servers and workstations.
+
+## Key Concepts
+
+### 1. Cmdlets
+Cmdlets are the core of PowerShell, which are specialized .NET classes implementing particular operations. They follow a verb-noun naming convention, like `Get-Content`, `Set-Item`, etc.
+
+### 2. Scripting
+PowerShell enables writing scripts to automate tasks, which are saved with a `.ps1` extension. Scripting is essential for automating repetitive tasks.
+
+### 3. Pipeline
+The pipeline concept in PowerShell allows passing the output of one cmdlet as the input to another, enabling complex operations with simple, one-liner commands.
+
+### 4. Object-Based Nature
+PowerShell works with .NET objects, meaning the output of commands is objects. Understanding how to manipulate these objects is crucial.
+
+### 5. Remote Management
+PowerShell supports remote management of computers, allowing scripts and commands to be run on remote systems.
+
+### 6. Integrated Scripting Environment (ISE)
+PowerShell ISE is a graphical interface supporting enhanced scripting, with a script editor, debugger, and console pane.
+
+By mastering these key aspects, users can effectively utilize the most functional and widely-used features of PowerShell.
+
+
 ## Getting Help
 
 - `Get-Help <cmd>`: Get detailed help information for a specific command.
