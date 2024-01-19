@@ -2,7 +2,7 @@
 
 This cheat sheet provides a quick reference to some of the most commonly used PowerShell commands.
 
-# PowerShell Overview
+# PowerShell Overview:-
 
 PowerShell is a powerful scripting language and command-line shell developed by Microsoft, primarily used for automating system administration tasks and managing Windows-based servers and workstations.
 
