@@ -6,7 +6,7 @@ This cheat sheet provides a quick reference to some of the most commonly used Po
 
 PowerShell is a powerful scripting language and command-line shell developed by Microsoft, primarily used for automating system administration tasks and managing Windows-based servers and workstations.
 
-## Key Concepts
+## Key Concepts 
 
 ### 1. Cmdlets
 Cmdlets are the core of PowerShell, which are specialized .NET classes implementing particular operations. They follow a verb-noun naming convention, like `Get-Content`, `Set-Item`, etc.
